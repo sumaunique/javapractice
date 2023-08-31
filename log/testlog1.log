@@ -1,0 +1,5 @@
+2023-07-11 10:48:55,112 [main] INFO Log4jLogging - chrome browser instance opened
+2023-07-11 10:48:55,242 [main] INFO Log4jLogging - window maximized
+2023-07-11 10:48:55,248 [main] INFO Log4jLogging - Implicit wait given
+2023-07-11 10:48:57,680 [main] INFO Log4jLogging - Application opened
+2023-07-11 10:49:27,721 [main] INFO Log4jLogging - failure- emails element is not dispalyed
